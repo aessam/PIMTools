@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app accesses your calendar to test EventKit functionality, including creating and reading calendar events.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>This app accesses your reminders to test EventKit functionality, including creating and reading reminders.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app accesses your contacts to test Contacts framework functionality, including reading contact information.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app accesses your location to test CoreLocation functionality, including getting current location and geocoding.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app accesses your location to test CoreLocation functionality, including getting current location and geocoding.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>This app captures the screen to test screen recording and capture functionality.</string>
+</dict>
+</plist>
